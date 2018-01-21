@@ -7,3 +7,5 @@
 test stash pull pop 2
 测试 stash pull pop
 测试 stash pull pop 3
+test stash pull pop 3
+
